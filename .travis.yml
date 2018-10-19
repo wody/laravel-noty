@@ -5,3 +5,5 @@ php:
 install:
   - composer install
   
+script:
+  - php -v
